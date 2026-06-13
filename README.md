@@ -1,2 +1,7 @@
 # Elite-Eats--The-Restaurant-Website
 🍽️ Elite Eats – A modern restaurant website showcasing delicious cuisine, elegant design, signature menu, restaurant story, and reservation system. Built with pure HTML and CSS.
+html file: 
+<br>
+css file:  
+# Clone the repo
+git clone: https://github.com/Yuvresh-Gavale/Elite-Eats--The-Restaurant-Website/edit/main/README.md
